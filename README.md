@@ -1,4 +1,4 @@
-# DIA
+# Nutrient Deficiency Diagnosis Using Decision Tree and Naïve Bayes
 Please ensure that Python is installed to run this code
 
 Steps to run the code:
