@@ -16,7 +16,7 @@ Steps to run the code:
 5. Run the main.py file to execute the code.
 
 Results (Based on Table 1 and Table 2 below):
-![image](https://github.com/aluxljy/DIA/assets/83107416/b5a44ebf-10ed-47e2-9bbb-b7b16059bd27)
+![image](https://github.com/aluxljy/DIA/assets/83107416/80bfcbbd-bf10-49c7-b1fd-b08050cbb4f4)
 ![image](https://github.com/aluxljy/DIA/assets/83107416/20dbe2e4-9996-4229-8ecd-4f15829034fb)
 
 1. Naïve Bayes results in a better accuracy of 85.71% in performing nutrient deficiency diagnosis compared to Decision Tree with an accuracy of 79.59%. This indicates that the Naïve Bayes approach can classify the nutrient in deficient based on the symptoms more accurately.
